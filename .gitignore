@@ -6,3 +6,5 @@
 *.csproj
 .vsconfig
 *.sln
+/obj
+/.vs
